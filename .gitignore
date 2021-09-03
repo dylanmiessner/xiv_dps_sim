@@ -1,3 +1,6 @@
+# My start venv .bat file
+start_venv.bat
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
